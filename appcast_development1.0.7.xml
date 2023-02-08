@@ -6,7 +6,7 @@
             <title>Version 1.0.7</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Wed, 8 Feb 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/test/com.payrecon.smartpos/7" sparkle:version="1.0.7" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/apps/test/com.payrecon.smartpos/8" sparkle:version="1.0.7" sparkle:os="android"/>
             <sparkle:minimumSystemVersion>1.0.7</sparkle:minimumSystemVersion>
         </item>
     </channel>
