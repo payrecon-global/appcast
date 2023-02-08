@@ -5,7 +5,9 @@
         <item>
             <title>Version 1.0.7</title>
             <description>Minor updates and improvements.
-56mm receipt option setting added</description>
+1. 56mm receipt option setting added.
+2. receipt and report printing for 56mm.
+</description>
             <pubDate>Wed, 8 Feb 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/apps/test/com.payrecon.smartpos/8" sparkle:version="1.0.7" sparkle:os="android"/>
             <sparkle:minimumSystemVersion>1.0.7</sparkle:minimumSystemVersion>
