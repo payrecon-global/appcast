@@ -3,12 +3,12 @@
     <channel>
         <title>New version updates</title>
         <item>
-            <title>Version 1.2.6</title>
+            <title>Version 1.2.7</title>
             <description>Minor updates and improvements.
             </description>
             <pubDate>Fri, 8 Dec 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.payrecon.smartpos" sparkle:version="1.2.6" sparkle:os="android" />
-            <sparkle:minimumSystemVersion>1.2.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.payrecon.smartpos" sparkle:version="1.2.7" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>1.2.7</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
